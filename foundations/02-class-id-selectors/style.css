@@ -1,0 +1,21 @@
+.para {
+    background-color: rgb(255, 192, 229);
+    font-family: verdana, Dejavu Sans, sans-serif;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+.para.cooler {
+    background-color: rgb(255, 192, 229);
+    font-family: Verdana, Dejavu Sans, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#another {
+    background-color: rgb(105, 254, 105);
+    font-size: 24px;
+    font-weight: bold;
+}
